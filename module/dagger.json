@@ -1,0 +1,7 @@
+{
+  "name": "mo",
+  "sdk": "python",
+  "dependencies": [
+    "testcontainers"
+  ]
+}
